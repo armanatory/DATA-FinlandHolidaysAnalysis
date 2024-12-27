@@ -16,6 +16,6 @@ Python jupyter notebook is used for this project.
 
 Addedd libraries:
 ```bash
-pip install pandas numpy matplotlib holidays ace_tools
+pip install pandas numpy matplotlib holidays seaborn
 ```
 
